@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AlarmsAppComponent {
   title = 'alarms works!';
+subtitle = 'angular 2 cli is questionable';
 }
